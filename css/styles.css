@@ -19,6 +19,7 @@ html, body {
 	font-size: 14px;
 	border: 2px solid rgb(216, 216, 216);
 	background-color: white;
+
 }
 
 ul#languages-one li {
@@ -37,8 +38,13 @@ ul#languages-three li {
 }
 
 .inline-image {
-	float: left;
-	width: 400px;
+	width: 80%;
+	margin: 60px;
+}
+
+.paragraph-shrink {
+	padding: 60px 0;
+	margin-right: 60px;
 }
 
 #welcome {
@@ -51,5 +57,23 @@ ul#languages-three li {
 }
 
 .firstParagraph {
-	background-color: #bff7e4;
+	background-color: #e8f8f3;
 }
+
+.secondParagraph {
+	background-color: #dff2f8;
+}
+
+.thirdParagraph {
+	background-color: #e8f8f3;
+}
+
+.fourthParagraph {
+	background-color: #dff2f8
+}
+
+.fifthParagraph {
+	background-color:#e6dbf5;
+}
+
+
