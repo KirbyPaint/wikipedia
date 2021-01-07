@@ -47,6 +47,10 @@ ul#languages-three li {
 	margin-right: 60px;
 }
 
+.add-border-box {
+	border: 2px solid lightgray;
+}
+
 #welcome {
 	font-size: 30px;
 }
@@ -75,5 +79,3 @@ ul#languages-three li {
 .fifthParagraph {
 	background-color:#e6dbf5;
 }
-
-
