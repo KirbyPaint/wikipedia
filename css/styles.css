@@ -13,7 +13,11 @@ html, body {
 
 .sidebar {
 	float: left;
+	padding: 2px;
 	width: 10%;
+	font-size: 14px;
+	border: 2px solid green;
+	background-color: white;
 }
 
 ul#languages-one li {
@@ -40,7 +44,3 @@ ul#languages-three li {
 	
 }
 
-.sidebar {
-	font-size: 14px;
-	/* background-color: #a3a3a3; */
-}
