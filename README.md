@@ -1,30 +1,33 @@
-# _TEMPLATE_
+# _Wikipedia_
 
-#### _Website to <PURPOSE>_
+#### _Exercise to practice basic HTML styling_
 
 #### By _**Ash Porter (KirbyPaint)**_
-### Co-authored by _**<AUTHOR>**_
+### Co-authored by _**Glen Buck**_
+### Co-authored by _**Logan Roth**_
 
 ## Description
 
-_The purpose of this website is to <DETAILED PURPOSE>_
+_The purpose of this site is to act as an exercise in HTML coding. This site was built entirely within about a three hour span._
 
 ## Setup/Installation Requirements
 
-* _Please use either a currently updated Firefox or Chrome web browser._
+* _Please use either a currently updated Firefox or Chrome web browser to view the page._
 
 ## Known Bugs
 
 ## Support and contact details
 
 _Discord: @KirbyPaint#0751_
+_https://github.com/glenbuck503_
+_https://github.com/Lo-GR_
 
 ## Technologies Used
 
-_HTML, CSS (Bootstrap), Moria Citadel font by Russ Herschler_
+_HTML, CSS (Bootstrap)_
 
 ### License Information
 
-_GNU Public License_\
+_GNU Public License_
 
 Copyright (c) 2020 **_KirbyPaint_**
