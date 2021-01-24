@@ -3,8 +3,8 @@
 #### _Exercise to practice basic HTML styling_
 
 #### By _**Ash Porter (KirbyPaint)**_
-### Co-authored by _**Glen Buck**_
-### Co-authored by _**Logan Roth**_
+#### Co-authored by _**Glen Buck**_
+#### Co-authored by _**Logan Roth**_
 
 ## Description
 
