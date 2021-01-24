@@ -19,7 +19,7 @@ _The purpose of this site is to act as an exercise in HTML coding. This site was
 ## Support and contact details
 
 _Discord: @KirbyPaint#0751_\
-_https://github.com/glenbuck503_\
+_https://github.com/glenbuck503_ \
 _https://github.com/Lo-GR_
 
 ## Technologies Used
