@@ -30,4 +30,4 @@ _HTML, CSS (Bootstrap)_
 
 _GNU Public License_
 
-Copyright (c) 2020 **_KirbyPaint_**
+Copyright (c) 2021 **_KirbyPaint_**
